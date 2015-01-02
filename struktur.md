@@ -1,26 +1,6 @@
 # Name
 *Kurzbeschreibung*
 
-## Meta
-Name:    
-Autor:   
-Quelle/Inspiration:   
-
-Vorbereitungszeit:    
-Gesamtzeit: 
-
-Besondere Utensilien:   
-
-Getränkeempfehlung:    
-
-Anmerkungen: ...
-
-### Kategorisierung
-Seasonal:   
-Regional:    
-Zutaten:    
-Weitere:
-
 ## Zutaten (# Personen)
 Die Struktur der Liste sollte nach Warengruppen sortiert sein:
 
@@ -41,3 +21,26 @@ Mögliche Abwandlungen des Gerichts
 
 ## Bilder *(optional)*
 Bilder der einzelnen Arbeitsschritte oder des Endprodukts
+
+## Links *(optional)*
+Links zu weiterführenden Informationen o.ä.
+
+## Meta
+Name:    
+Autor:   
+Quelle/Inspiration:   
+
+Vorbereitungszeit:    
+Gesamtzeit: 
+
+Besondere Utensilien:   
+
+Getränkeempfehlung:    
+
+Anmerkungen: ...
+
+### Kategorisierung
+Seasonal:   
+Regional:    
+Zutaten:    
+Weitere:
