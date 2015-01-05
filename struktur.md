@@ -16,6 +16,9 @@ Zubereitungsabfolge und Dauer der einzelnen Zwischenschritte
 ## Anleitung
 Beschreibung der Abläufe und Arbeitsschritte
 
+### Tipps
+Hilfreiche Hinweise
+
 ## Varianten *(optional)*
 Mögliche Abwandlungen des Gerichts
 
