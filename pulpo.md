@@ -2,13 +2,11 @@
 *Grundrezept für die Zubereitung von Pulpo/Oktopus/Krake. Das Rezept bezieht sich auf die Zubereitung eines Kraken von etwa 1kg Gesamtgewicht.*
 
 ## Zutaten (4 Personen)
-Die Struktur der Liste sollte nach Warengruppen sortiert sein:
-
 * 1x Chillischote
 * 2x Knoblauchzehen
 * 1x frische Knoblauchknolle
 * 3x Lorbeerblätter
-* ~1kg Pulpo
+* 1 Pulpo (~1kg)
 * Weißwein (trocken), 3-4€
 * Olivenöl
 
