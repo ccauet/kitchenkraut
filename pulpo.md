@@ -26,17 +26,21 @@ Die Abfolge der Arbeitsschritte baut aufeinander auf. Zunächst wird der Kopf de
 * In mundgerechte Teile zerteilen.
 * Knoblauchknolle halbieren und mit reichlich Olivenöl in die Pfanne geben, aufheizen.
 * Pulpo kurz anbraten.
+* Der Kraken ist jetzt servierfertig und kann angerichtet werden. Ein bisschen Olivenöl reicht.
+
+### Tipps
+* Der Pulpo wird wohl weicher, wenn vor der Zubereitung entweder das Fleisch etwas weichgeklopft wird, oder er ein oder zwei Tage eingefroren war. In beiden Fällen dürften die Zellen im Fleisch aufplatzen. *(Noch nicht ausprobiert, bitte bestätigen)*
 
 ## Meta
 Name: Pulpo (Grundrezept)   
 Quelle/Inspiration: -
 
-Vorbereitungszeit: 15min    
+Vorbereitungszeit: 15min *(falls der Pulpo vorher eingefroren und wieder aufgetaut werden soll, ein oder zwei Tage vorher kaufen)*    
 Gesamtzeit: 60-80min
 
 Besondere Utensilien: -  
 
-Getränkeempfehlung: Weißwein 
+Getränkeempfehlung: Leichter Weißwein (Lugana, Verdejo, Vinho Verde, ...) 
 
 Anmerkungen: -   
 
