@@ -43,7 +43,7 @@ Getränkeempfehlung:
 Anmerkungen: ...
 
 ### Kategorisierung
-Seasonal:   
+Saisonal:   
 Regional:    
 Zutaten:    
 Weitere:
