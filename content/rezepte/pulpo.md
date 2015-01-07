@@ -45,7 +45,7 @@ Getränkeempfehlung: Leichter Weißwein (Lugana, Verdejo, Vinho Verde, ...)
 Anmerkungen: -   
 
 ### Kategorisierung
-Seasonal: ganzjährig   
+Saisonal: ganzjährig   
 Regional: Mittelmeer, Asien      
 Zutaten: Pulpo, Krake, Oktopus   
 Weitere: Vorspeise, Fischgericht
