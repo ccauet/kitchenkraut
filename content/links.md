@@ -6,3 +6,4 @@ an unordered list
 * [Cook's Illustrated](http://www.cooksillustrated.com)
 * [Paris by Mouth](http://parisbymouth.com)
 * [Cooking in the archives](http://rarecooking.wordpress.com)
+* [Cooking Issues](http://www.cookingissues.com)
