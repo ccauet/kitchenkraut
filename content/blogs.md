@@ -1,0 +1,13 @@
+# Blogs
+* [Anonyme Köche](http://www.anonymekoeche.net)
+* [Chef, der Metzger hat gesagt](http://edekaner.blogspot.de)
+* [Chez Matze](https://chezmatze.wordpress.com)
+* [Chezuli](https://chezuli.wordpress.com)
+* [Chili und Ciabatta](http://peho.typepad.com/chili_und_ciabatta/)
+* [esskultur - kulinarische notizen](http://www.esskultur.at)
+* [Küchentanz](http://www.kuechentanz.com)
+* [lamiacucina](https://lamiacucina.wordpress.com)
+* [Monambelles](http://www.monambelles.de)
+* [Nur das gute Zeugs](http://www.dlz-coc.de/wordpress/) (!)
+* [OldMountainBBQ](http://oldmountainbbq.com)
+* [Topf & Löffel](http://topf-und-loeffel.de)
