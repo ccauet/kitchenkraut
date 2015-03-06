@@ -56,9 +56,11 @@ Nach eigenem Geschmack kann man alle Zutaten beliebig variieren. Z.B. mit Rucola
 
 ## Meta
 Name: Ziegenkäsetaler auf Salatbett
+
 Autor: Florian Kruse
 
 Vorbereitungszeit: ca. 20-30 Minuten
+
 Gesamtzeit: ca. 30-40 Minuten
 
 Besondere Utensilien: –
@@ -69,6 +71,9 @@ Anmerkungen: Silvester 2014
 
 ### Kategorisierung
 Saisonal: ganzjährig
+
 Regional: –
+
 Zutaten: Ziegenkäse, Salat 
+
 Weitere:

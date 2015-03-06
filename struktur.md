@@ -31,10 +31,13 @@ Links zu weiterführenden Informationen o.ä.
 
 ## Meta
 Name:    
+
 Autor:   
+
 Quelle/Inspiration:   
 
 Vorbereitungszeit:    
+
 Gesamtzeit: 
 
 Besondere Utensilien:   
@@ -45,6 +48,9 @@ Anmerkungen: ...
 
 ### Kategorisierung
 Saisonal:   
+
 Regional:    
+
 Zutaten:    
+
 Weitere:
