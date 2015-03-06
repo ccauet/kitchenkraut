@@ -5,6 +5,7 @@
 Die Struktur der Liste sollte nach Warengruppen sortiert sein:
 
 * Obst & Gemüse
+* Milchprodukte
 * Fleisch & Fisch
 * Kräuter & Gewürze
 * Tiefkühlware
